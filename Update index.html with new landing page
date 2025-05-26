@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Deriv Trader - Sign Up & Trade</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: sans-serif; text-align: center; padding: 30px; }
+    button, a { padding: 14px 22px; font-size: 18px; margin: 10px; display: block; text-decoration: none; color: white; background: #d40000; border-radius: 5px; }
+  </style>
+</head>
+<body>
+  <h2>Welcome to Deriv Mobile Trader</h2>
+  <p>Create a free account and start trading today.</p>
+
+  <a href="https://app.deriv.com/signup/" target="_blank">Sign Up for Free</a>
+  <a href="https://app.deriv.com/login/" target="_blank">Log In to Deriv</a>
+
+  <button onclick="window.location.href='https://app.deriv.com/trader/'">Go to Official Trading Platform</button>
+</body>
+</html>
